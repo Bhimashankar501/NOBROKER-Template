@@ -1,0 +1,52 @@
+* {
+font-family: "Source Sans Pro",sans-serif;
+outline: none;
+}
+
+.bg-parpule{
+    background-color: #6e2d5c;
+}
+
+.text-parpule{
+    color: #6e2d5c;
+}
+
+
+.custom-thead {
+    background-color: red;
+    color: white; /* Optionally, change text color to white for better contrast */
+  }
+
+
+
+  tr {
+    background-color: #007bff; /* Change this to your desired background color */
+    color: red; /* Change text color for better visibility */
+}
+
+
+
+.bg-pink{
+    background-color: rgba(128,60,109,.14);
+}
+
+
+
+
+
+
+
+  .modal-vertical-center {
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+  }
+
+
+
+  .custom-modal-dialog {
+    /* Set your desired width and height */
+    max-width: 70%; /* Adjust this to your preferred width */
+    width: 100%;
+    max-height: 80vh; /* Adjust this to your preferred height */
+  }
